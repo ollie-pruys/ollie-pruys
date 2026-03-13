@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ollie, And i am a student at [Mother Teresa High School](https://teh.ocsb.ca/) In Ottawa.
+My name is Ollie, And i am a student at [St Mother Teresa High School](https://teh.ocsb.ca/) In Ottawa.
 
 ## Programming Langauges 🧻
   <a href="https://github.com/search?q=user%3Aollie-pruys+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-%2300599C.svg?logo=cpp2&logoColor=white"></a>
