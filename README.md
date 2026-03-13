@@ -3,9 +3,10 @@
 My name is Ollie, And i am a student at [Mother Teresa High School](https://teh.ocsb.ca/) In Ottawa.
 
 ## Programming Langauges 🧻
-
-
-
+  <a href="https://github.com/search?q=user%3Aollie-pruys+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-%2300599C.svg?logo=cpp2&logoColor=white"></a>
+## Operating Systems ⛭
+<a href="https://www.google.com/intl/en_ca/chromebook/chrome-os/"><img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></a>
+  <a href="https://www.microsoft.com/en-ca/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows"></a>
 
 <!--
 **ollie-pruys/ollie-pruys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
